@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\saida-dados-csharp\bin\Debug\net6.0\saida-dados-csharp.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\saida-dados-csharp\bin\Debug\net6.0\saida-dados-csharp.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\saida-dados-csharp\bin\Debug\net6.0\saida-dados-csharp.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\saida-dados-csharp\bin\Debug\net6.0\saida-dados-csharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\saida-dados-csharp\bin\Debug\net6.0\ref\saida-dados-csharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\saida-dados-csharp\bin\Debug\net6.0\saida-dados-csharp.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\saida-dados-csharp\obj\Debug\net6.0\saida-dados-csharp.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\saida-dados-csharp\obj\Debug\net6.0\saida-dados-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\saida-dados-csharp\obj\Debug\net6.0\saida-dados-csharp.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\saida-dados-csharp\obj\Debug\net6.0\saida-dados-csharp.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\saida-dados-csharp\obj\Debug\net6.0\saida-dados-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\saida-dados-csharp\obj\Debug\net6.0\saida-dados-csharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\saida-dados-csharp\obj\Debug\net6.0\ref\saida-dados-csharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\saida-dados-csharp\obj\Debug\net6.0\saida-dados-csharp.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\saida-dados-csharp\obj\Debug\net6.0\saida-dados-csharp.genruntimeconfig.cache
