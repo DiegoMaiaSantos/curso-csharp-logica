@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\processamento-dados-csharp\bin\Debug\net6.0\processamento-dados-csharp.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\processamento-dados-csharp\bin\Debug\net6.0\processamento-dados-csharp.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\processamento-dados-csharp\bin\Debug\net6.0\processamento-dados-csharp.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\processamento-dados-csharp\bin\Debug\net6.0\processamento-dados-csharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\processamento-dados-csharp\bin\Debug\net6.0\ref\processamento-dados-csharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\processamento-dados-csharp\bin\Debug\net6.0\processamento-dados-csharp.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\processamento-dados-csharp\obj\Debug\net6.0\processamento-dados-csharp.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\processamento-dados-csharp\obj\Debug\net6.0\processamento-dados-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\processamento-dados-csharp\obj\Debug\net6.0\processamento-dados-csharp.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\processamento-dados-csharp\obj\Debug\net6.0\processamento-dados-csharp.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\processamento-dados-csharp\obj\Debug\net6.0\processamento-dados-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\processamento-dados-csharp\obj\Debug\net6.0\processamento-dados-csharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\processamento-dados-csharp\obj\Debug\net6.0\ref\processamento-dados-csharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\processamento-dados-csharp\obj\Debug\net6.0\processamento-dados-csharp.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\processamento-dados-csharp\obj\Debug\net6.0\processamento-dados-csharp.genruntimeconfig.cache
