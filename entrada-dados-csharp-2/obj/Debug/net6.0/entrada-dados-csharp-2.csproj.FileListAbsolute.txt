@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\entrada-dados-csharp-2\bin\Debug\net6.0\entrada-dados-csharp-2.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\entrada-dados-csharp-2\bin\Debug\net6.0\entrada-dados-csharp-2.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\entrada-dados-csharp-2\bin\Debug\net6.0\entrada-dados-csharp-2.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\entrada-dados-csharp-2\bin\Debug\net6.0\entrada-dados-csharp-2.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\entrada-dados-csharp-2\bin\Debug\net6.0\ref\entrada-dados-csharp-2.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\entrada-dados-csharp-2\bin\Debug\net6.0\entrada-dados-csharp-2.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\entrada-dados-csharp-2\obj\Debug\net6.0\entrada-dados-csharp-2.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\entrada-dados-csharp-2\obj\Debug\net6.0\entrada-dados-csharp-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\entrada-dados-csharp-2\obj\Debug\net6.0\entrada-dados-csharp-2.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\entrada-dados-csharp-2\obj\Debug\net6.0\entrada-dados-csharp-2.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\entrada-dados-csharp-2\obj\Debug\net6.0\entrada-dados-csharp-2.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\entrada-dados-csharp-2\obj\Debug\net6.0\entrada-dados-csharp-2.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\entrada-dados-csharp-2\obj\Debug\net6.0\ref\entrada-dados-csharp-2.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\entrada-dados-csharp-2\obj\Debug\net6.0\entrada-dados-csharp-2.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\entrada-dados-csharp-2\obj\Debug\net6.0\entrada-dados-csharp-2.genruntimeconfig.cache
