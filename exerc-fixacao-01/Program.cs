@@ -20,7 +20,7 @@ Console.WriteLine(nome);
 Console.WriteLine("Quantos quartos tem na sua casa? ");
 Console.WriteLine(n1);
 Console.WriteLine("Preço do produto: ");
-Console.WriteLine(n2);
+Console.WriteLine(n2.ToString("F2", CultureInfo.InvariantCulture));
 Console.WriteLine("Primeiro nome, idade e altura: ");
 Console.WriteLine(nome1);
 Console.WriteLine(n3);
