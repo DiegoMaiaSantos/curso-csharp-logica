@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\funcoes-matematicas\bin\Debug\net6.0\funcoes-matematicas.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\funcoes-matematicas\bin\Debug\net6.0\funcoes-matematicas.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\funcoes-matematicas\bin\Debug\net6.0\funcoes-matematicas.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\funcoes-matematicas\bin\Debug\net6.0\funcoes-matematicas.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\funcoes-matematicas\bin\Debug\net6.0\ref\funcoes-matematicas.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\funcoes-matematicas\bin\Debug\net6.0\funcoes-matematicas.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\funcoes-matematicas\obj\Debug\net6.0\funcoes-matematicas.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\funcoes-matematicas\obj\Debug\net6.0\funcoes-matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\funcoes-matematicas\obj\Debug\net6.0\funcoes-matematicas.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\funcoes-matematicas\obj\Debug\net6.0\funcoes-matematicas.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\funcoes-matematicas\obj\Debug\net6.0\funcoes-matematicas.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\funcoes-matematicas\obj\Debug\net6.0\funcoes-matematicas.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\funcoes-matematicas\obj\Debug\net6.0\ref\funcoes-matematicas.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\funcoes-matematicas\obj\Debug\net6.0\funcoes-matematicas.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\funcoes-matematicas\obj\Debug\net6.0\funcoes-matematicas.genruntimeconfig.cache
