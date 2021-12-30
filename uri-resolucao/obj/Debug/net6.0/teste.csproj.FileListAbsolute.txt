@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\teste\bin\Debug\net6.0\teste.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\teste\bin\Debug\net6.0\teste.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\teste\bin\Debug\net6.0\teste.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\teste\bin\Debug\net6.0\teste.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\teste\bin\Debug\net6.0\ref\teste.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\teste\bin\Debug\net6.0\teste.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\teste\obj\Debug\net6.0\teste.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\teste\obj\Debug\net6.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\teste\obj\Debug\net6.0\teste.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\teste\obj\Debug\net6.0\teste.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\teste\obj\Debug\net6.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\teste\obj\Debug\net6.0\teste.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\teste\obj\Debug\net6.0\ref\teste.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\teste\obj\Debug\net6.0\teste.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\teste\obj\Debug\net6.0\teste.genruntimeconfig.cache
