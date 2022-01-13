@@ -5,14 +5,14 @@ class URI {
 
     static void Main(string[] args) { 
 
-        int tempoHoras, velocidadeMedia;
-        double consumoVeiculo;
+        double nota01, nota02, nota03, mediaAluno;
+        
+        nota01 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+        nota02 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+        nota03 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+        mediaAluno = ((nota01 * 2.0) + (nota02 * 3.0) + (nota03 * 5.0)) / 10.0;
 
-        tempoHoras = int.Parse(Console.ReadLine());
-        velocidadeMedia = int.Parse(Console.ReadLine());  
-        consumoVeiculo = velocidadeMedia * tempoHoras / 12.0;
-
-        Console.WriteLine(consumoVeiculo.ToString("F3", CultureInfo.InvariantCulture));     
+        Console.WriteLine("MEDIA = " + mediaAluno.ToString("F1", CultureInfo.InvariantCulture));
     }
 
 }
