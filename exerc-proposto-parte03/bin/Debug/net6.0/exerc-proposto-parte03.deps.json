@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "exerc-proposto-parte03/1.0.0": {
+        "runtime": {
+          "exerc-proposto-parte03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exerc-proposto-parte03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
