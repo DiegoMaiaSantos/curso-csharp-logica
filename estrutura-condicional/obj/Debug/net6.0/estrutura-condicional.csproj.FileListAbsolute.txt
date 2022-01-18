@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-condicional\bin\Debug\net6.0\estrutura-condicional.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-condicional\bin\Debug\net6.0\estrutura-condicional.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-condicional\bin\Debug\net6.0\estrutura-condicional.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-condicional\bin\Debug\net6.0\estrutura-condicional.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-condicional\bin\Debug\net6.0\ref\estrutura-condicional.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-condicional\bin\Debug\net6.0\estrutura-condicional.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-condicional\obj\Debug\net6.0\estrutura-condicional.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-condicional\obj\Debug\net6.0\estrutura-condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-condicional\obj\Debug\net6.0\estrutura-condicional.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-condicional\obj\Debug\net6.0\estrutura-condicional.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-condicional\obj\Debug\net6.0\estrutura-condicional.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-condicional\obj\Debug\net6.0\estrutura-condicional.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-condicional\obj\Debug\net6.0\ref\estrutura-condicional.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-condicional\obj\Debug\net6.0\estrutura-condicional.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-condicional\obj\Debug\net6.0\estrutura-condicional.genruntimeconfig.cache
