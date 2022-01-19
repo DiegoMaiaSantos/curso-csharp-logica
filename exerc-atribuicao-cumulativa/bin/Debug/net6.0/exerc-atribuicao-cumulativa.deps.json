@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "exerc-atribuicao-cumulativa/1.0.0": {
+        "runtime": {
+          "exerc-atribuicao-cumulativa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exerc-atribuicao-cumulativa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

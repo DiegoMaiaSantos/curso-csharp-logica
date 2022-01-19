@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-atribuicao-cumulativa\obj\Debug\net6.0\exerc-atribuicao-cumulativa.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-atribuicao-cumulativa\obj\Debug\net6.0\exerc-atribuicao-cumulativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-atribuicao-cumulativa\obj\Debug\net6.0\exerc-atribuicao-cumulativa.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-atribuicao-cumulativa\obj\Debug\net6.0\exerc-atribuicao-cumulativa.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-atribuicao-cumulativa\obj\Debug\net6.0\exerc-atribuicao-cumulativa.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-atribuicao-cumulativa\bin\Debug\net6.0\exerc-atribuicao-cumulativa.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-atribuicao-cumulativa\bin\Debug\net6.0\exerc-atribuicao-cumulativa.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-atribuicao-cumulativa\bin\Debug\net6.0\exerc-atribuicao-cumulativa.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-atribuicao-cumulativa\bin\Debug\net6.0\exerc-atribuicao-cumulativa.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-atribuicao-cumulativa\bin\Debug\net6.0\ref\exerc-atribuicao-cumulativa.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-atribuicao-cumulativa\bin\Debug\net6.0\exerc-atribuicao-cumulativa.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-atribuicao-cumulativa\obj\Debug\net6.0\exerc-atribuicao-cumulativa.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-atribuicao-cumulativa\obj\Debug\net6.0\ref\exerc-atribuicao-cumulativa.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-atribuicao-cumulativa\obj\Debug\net6.0\exerc-atribuicao-cumulativa.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-atribuicao-cumulativa\obj\Debug\net6.0\exerc-atribuicao-cumulativa.genruntimeconfig.cache
