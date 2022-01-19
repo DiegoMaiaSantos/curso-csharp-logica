@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-switch-case\obj\Debug\net6.0\estrutura-switch-case.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-switch-case\obj\Debug\net6.0\estrutura-switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-switch-case\obj\Debug\net6.0\estrutura-switch-case.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-switch-case\obj\Debug\net6.0\estrutura-switch-case.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-switch-case\obj\Debug\net6.0\estrutura-switch-case.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-switch-case\bin\Debug\net6.0\estrutura-switch-case.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-switch-case\bin\Debug\net6.0\estrutura-switch-case.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-switch-case\bin\Debug\net6.0\estrutura-switch-case.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-switch-case\bin\Debug\net6.0\estrutura-switch-case.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-switch-case\bin\Debug\net6.0\ref\estrutura-switch-case.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-switch-case\bin\Debug\net6.0\estrutura-switch-case.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-switch-case\obj\Debug\net6.0\estrutura-switch-case.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-switch-case\obj\Debug\net6.0\ref\estrutura-switch-case.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-switch-case\obj\Debug\net6.0\estrutura-switch-case.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-switch-case\obj\Debug\net6.0\estrutura-switch-case.genruntimeconfig.cache
