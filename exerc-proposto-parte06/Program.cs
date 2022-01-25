@@ -167,6 +167,7 @@ class Program {
             if (x % 2 != 0) {
                 x += 1;
             }
+            
             // expressão somplificada: 5 * x + 20
             soma = x + x + 2 + x + 4 + x + 6 + x + 8;
             Console.WriteLine(soma); 
