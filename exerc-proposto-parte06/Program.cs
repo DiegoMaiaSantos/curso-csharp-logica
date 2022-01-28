@@ -218,3 +218,57 @@ class Program {
         Console.ReadLine();
     }
 }
+
+//Exercícios Beecrowd 1131:
+
+using System;
+
+class Program {
+    static void Main(string[] args) {
+
+        int golInter, golGremio, novoGrenal, quantosGrenais, vitoriaInter, vitoriaGremio, empates;
+
+        novoGrenal = 1;
+        quantosGrenais = 0;
+        vitoriaInter = 0;
+        vitoriaGremio = 0;
+        empates = 0;
+        while (novoGrenal == 1) {
+            string[] valores = Console.ReadLine().Split(' ');
+            golInter = int.Parse(valores[0]);
+            golGremio = int.Parse(valores[1]);
+
+            if (golInter > golGremio) {
+                vitoriaInter += 1;
+            }
+            else if (golGremio > golInter) {
+                vitoriaGremio += 1;
+            }
+            else {
+                empates += 1;
+            }
+
+            Console.WriteLine("Novo grenal (1-sim 2-nao)");
+            novoGrenal = int.Parse(Console.ReadLine());
+        }
+
+        quantosGrenais = vitoriaInter + vitoriaGremio + empates;
+
+        Console.WriteLine(quantosGrenais + " grenais");
+        Console.WriteLine("Inter:" + vitoriaInter);
+        Console.WriteLine("Gremio:" + vitoriaGremio);
+        Console.WriteLine("Empates:" + empates);
+
+        if (vitoriaInter > vitoriaGremio) {
+            Console.WriteLine("Inter venceu mais");
+        }
+        else if (vitoriaGremio > vitoriaInter) {
+            Console.WriteLine("Gremio venceu mais");
+        }
+        else {
+            Console.WriteLine("Nao houve vencedor");
+        }
+
+        Console.ReadLine();
+    }
+}
