@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-for\obj\Debug\net6.0\estrutura-repetitiva-for.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-for\obj\Debug\net6.0\estrutura-repetitiva-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-for\obj\Debug\net6.0\estrutura-repetitiva-for.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-for\obj\Debug\net6.0\estrutura-repetitiva-for.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-for\obj\Debug\net6.0\estrutura-repetitiva-for.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-for\bin\Debug\net6.0\estrutura-repetitiva-for.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-for\bin\Debug\net6.0\estrutura-repetitiva-for.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-for\bin\Debug\net6.0\estrutura-repetitiva-for.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-for\bin\Debug\net6.0\estrutura-repetitiva-for.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-for\bin\Debug\net6.0\ref\estrutura-repetitiva-for.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-for\bin\Debug\net6.0\estrutura-repetitiva-for.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-for\obj\Debug\net6.0\estrutura-repetitiva-for.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-for\obj\Debug\net6.0\ref\estrutura-repetitiva-for.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-for\obj\Debug\net6.0\estrutura-repetitiva-for.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-for\obj\Debug\net6.0\estrutura-repetitiva-for.genruntimeconfig.cache
