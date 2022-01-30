@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-do-while\bin\Debug\net6.0\estrutura-repetitiva-do-while.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-do-while\bin\Debug\net6.0\estrutura-repetitiva-do-while.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-do-while\bin\Debug\net6.0\estrutura-repetitiva-do-while.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-do-while\bin\Debug\net6.0\estrutura-repetitiva-do-while.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-do-while\bin\Debug\net6.0\ref\estrutura-repetitiva-do-while.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-do-while\bin\Debug\net6.0\estrutura-repetitiva-do-while.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-do-while\obj\Debug\net6.0\estrutura-repetitiva-do-while.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-do-while\obj\Debug\net6.0\estrutura-repetitiva-do-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-do-while\obj\Debug\net6.0\estrutura-repetitiva-do-while.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-do-while\obj\Debug\net6.0\estrutura-repetitiva-do-while.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-do-while\obj\Debug\net6.0\estrutura-repetitiva-do-while.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-do-while\obj\Debug\net6.0\estrutura-repetitiva-do-while.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-do-while\obj\Debug\net6.0\ref\estrutura-repetitiva-do-while.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-do-while\obj\Debug\net6.0\estrutura-repetitiva-do-while.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\estrutura-repetitiva-do-while\obj\Debug\net6.0\estrutura-repetitiva-do-while.genruntimeconfig.cache
