@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-do-while\bin\Debug\net6.0\exerc-proposto-parte07-do-while.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-do-while\bin\Debug\net6.0\exerc-proposto-parte07-do-while.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-do-while\bin\Debug\net6.0\exerc-proposto-parte07-do-while.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-do-while\bin\Debug\net6.0\exerc-proposto-parte07-do-while.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-do-while\bin\Debug\net6.0\ref\exerc-proposto-parte07-do-while.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-do-while\bin\Debug\net6.0\exerc-proposto-parte07-do-while.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-do-while\obj\Debug\net6.0\exerc-proposto-parte07-do-while.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-do-while\obj\Debug\net6.0\exerc-proposto-parte07-do-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-do-while\obj\Debug\net6.0\exerc-proposto-parte07-do-while.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-do-while\obj\Debug\net6.0\exerc-proposto-parte07-do-while.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-do-while\obj\Debug\net6.0\exerc-proposto-parte07-do-while.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-do-while\obj\Debug\net6.0\exerc-proposto-parte07-do-while.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-do-while\obj\Debug\net6.0\ref\exerc-proposto-parte07-do-while.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-do-while\obj\Debug\net6.0\exerc-proposto-parte07-do-while.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-do-while\obj\Debug\net6.0\exerc-proposto-parte07-do-while.genruntimeconfig.cache
