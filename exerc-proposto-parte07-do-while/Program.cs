@@ -116,3 +116,53 @@ class URI {
         Console.ReadLine();      
     }
 }
+
+//Exercício Beecrowd 1075:
+
+using System;
+
+class Program {
+    static void Main(string[] args) {
+
+        int x, i;
+
+        x = int.Parse(Console.ReadLine());
+
+        for (i = 0; i < 10000; i ++) {
+            if (i % x == 2) {
+                Console.WriteLine(i);
+            }
+        }
+
+        Console.ReadLine();
+    }
+}
+
+//Exercício Beecrowd 1079:
+
+using System;
+using System.Globalization;
+
+class Program {
+    static void Main(string[] args) {
+
+        int n, i;
+        double nota1, nota2, nota3, media;
+
+        n = int.Parse(Console.ReadLine());
+
+        for (i = 0; i < n; i ++) {
+
+            string[] valores = Console.ReadLine().Split(' ');
+            nota1 = double.Parse(valores[0], CultureInfo.InvariantCulture);
+            nota2 = double.Parse(valores[1], CultureInfo.InvariantCulture);
+            nota3 = double.Parse(valores[2], CultureInfo.InvariantCulture);
+
+            media = (nota1 * 2.0 + nota2 * 3.0 + nota3 * 5.0) / 10.0;
+
+            Console.WriteLine(media.ToString("F1", CultureInfo.InvariantCulture));           
+        }  
+
+        Console.ReadLine();
+    }
+}
