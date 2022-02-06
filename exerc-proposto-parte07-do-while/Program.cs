@@ -193,3 +193,55 @@ class Program {
         Console.ReadLine();
     }
 }
+
+//Exercícios Beecrowd 1094:
+
+using System;
+using System.Globalization;
+
+class Program {
+    static void Main(string[] args) {
+
+        char tipo;
+        int valorEntrada, contador, totalAnimais, coelhos, ratos, sapos, quantidade;
+        double percentualCoelhos, percentualRatos, percentualSapos;
+
+        valorEntrada = int.Parse(Console.ReadLine());        
+        
+        coelhos = 0;
+        ratos = 0;
+        sapos = 0;
+
+        for (contador = 0; contador < valorEntrada; contador ++) {
+
+            string[] valores = Console.ReadLine().Split(' ');
+            quantidade = int.Parse(valores[0]);
+            tipo = char.Parse(valores[1]);          
+
+            if (tipo == 'C') {
+                coelhos += quantidade;
+            }
+            else if (tipo == 'R') {
+                ratos += quantidade;
+            }
+            else {
+                sapos += quantidade;
+            }
+        }
+
+        totalAnimais = coelhos + ratos + sapos;
+        percentualCoelhos = (double)coelhos / totalAnimais * 100.0;
+        percentualRatos = (double)ratos / totalAnimais * 100.0;
+        percentualSapos = (double)sapos / totalAnimais * 100.0;
+
+        Console.WriteLine("Total: " + totalAnimais + " cobaias");
+        Console.WriteLine("Total de coelhos: " + coelhos);
+        Console.WriteLine("Total de ratos: " + ratos);
+        Console.WriteLine("Total de sapos: " + sapos);
+        Console.WriteLine("Percentual de coelhos: " + percentualCoelhos.ToString("F2", CultureInfo.InvariantCulture) + " %");
+        Console.WriteLine("Percentual de ratos: " + percentualRatos.ToString("F2", CultureInfo.InvariantCulture) + " %");
+        Console.WriteLine("Percentual de sapos: " + percentualSapos.ToString("F2", CultureInfo.InvariantCulture) + " %");
+
+        Console.ReadLine();
+    }
+}
