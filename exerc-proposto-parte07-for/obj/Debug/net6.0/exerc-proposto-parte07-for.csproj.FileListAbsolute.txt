@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-for\bin\Debug\net6.0\exerc-proposto-parte07-for.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-for\bin\Debug\net6.0\exerc-proposto-parte07-for.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-for\bin\Debug\net6.0\exerc-proposto-parte07-for.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-for\bin\Debug\net6.0\exerc-proposto-parte07-for.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-for\bin\Debug\net6.0\ref\exerc-proposto-parte07-for.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-for\bin\Debug\net6.0\exerc-proposto-parte07-for.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-for\obj\Debug\net6.0\exerc-proposto-parte07-for.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-for\obj\Debug\net6.0\exerc-proposto-parte07-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-for\obj\Debug\net6.0\exerc-proposto-parte07-for.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-for\obj\Debug\net6.0\exerc-proposto-parte07-for.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-for\obj\Debug\net6.0\exerc-proposto-parte07-for.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-for\obj\Debug\net6.0\exerc-proposto-parte07-for.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-for\obj\Debug\net6.0\ref\exerc-proposto-parte07-for.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-for\obj\Debug\net6.0\exerc-proposto-parte07-for.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte07-for\obj\Debug\net6.0\exerc-proposto-parte07-for.genruntimeconfig.cache
