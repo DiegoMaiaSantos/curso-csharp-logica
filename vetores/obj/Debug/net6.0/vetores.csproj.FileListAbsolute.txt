@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\vetores\obj\Debug\net6.0\vetores.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\vetores\obj\Debug\net6.0\vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\vetores\obj\Debug\net6.0\vetores.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\vetores\obj\Debug\net6.0\vetores.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\vetores\obj\Debug\net6.0\vetores.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\vetores\bin\Debug\net6.0\vetores.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\vetores\bin\Debug\net6.0\vetores.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\vetores\bin\Debug\net6.0\vetores.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\vetores\bin\Debug\net6.0\vetores.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\vetores\bin\Debug\net6.0\ref\vetores.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\vetores\bin\Debug\net6.0\vetores.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\vetores\obj\Debug\net6.0\vetores.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\vetores\obj\Debug\net6.0\ref\vetores.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\vetores\obj\Debug\net6.0\vetores.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\vetores\obj\Debug\net6.0\vetores.genruntimeconfig.cache
