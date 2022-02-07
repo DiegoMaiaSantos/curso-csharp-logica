@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-vetores-03\bin\Debug\net6.0\exerc-resolvido-vetores-03.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-vetores-03\bin\Debug\net6.0\exerc-resolvido-vetores-03.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-vetores-03\bin\Debug\net6.0\exerc-resolvido-vetores-03.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-vetores-03\bin\Debug\net6.0\exerc-resolvido-vetores-03.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-vetores-03\bin\Debug\net6.0\ref\exerc-resolvido-vetores-03.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-vetores-03\bin\Debug\net6.0\exerc-resolvido-vetores-03.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-vetores-03\obj\Debug\net6.0\exerc-resolvido-vetores-03.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-vetores-03\obj\Debug\net6.0\exerc-resolvido-vetores-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-vetores-03\obj\Debug\net6.0\exerc-resolvido-vetores-03.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-vetores-03\obj\Debug\net6.0\exerc-resolvido-vetores-03.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-vetores-03\obj\Debug\net6.0\exerc-resolvido-vetores-03.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-vetores-03\obj\Debug\net6.0\exerc-resolvido-vetores-03.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-vetores-03\obj\Debug\net6.0\ref\exerc-resolvido-vetores-03.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-vetores-03\obj\Debug\net6.0\exerc-resolvido-vetores-03.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-vetores-03\obj\Debug\net6.0\exerc-resolvido-vetores-03.genruntimeconfig.cache
