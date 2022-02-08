@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\sintaxe-opcional-foreach\bin\Debug\net6.0\sintaxe-opcional-foreach.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\sintaxe-opcional-foreach\bin\Debug\net6.0\sintaxe-opcional-foreach.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\sintaxe-opcional-foreach\bin\Debug\net6.0\sintaxe-opcional-foreach.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\sintaxe-opcional-foreach\bin\Debug\net6.0\sintaxe-opcional-foreach.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\sintaxe-opcional-foreach\bin\Debug\net6.0\ref\sintaxe-opcional-foreach.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\sintaxe-opcional-foreach\bin\Debug\net6.0\sintaxe-opcional-foreach.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\sintaxe-opcional-foreach\obj\Debug\net6.0\sintaxe-opcional-foreach.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\sintaxe-opcional-foreach\obj\Debug\net6.0\sintaxe-opcional-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\sintaxe-opcional-foreach\obj\Debug\net6.0\sintaxe-opcional-foreach.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\sintaxe-opcional-foreach\obj\Debug\net6.0\sintaxe-opcional-foreach.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\sintaxe-opcional-foreach\obj\Debug\net6.0\sintaxe-opcional-foreach.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\sintaxe-opcional-foreach\obj\Debug\net6.0\sintaxe-opcional-foreach.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\sintaxe-opcional-foreach\obj\Debug\net6.0\ref\sintaxe-opcional-foreach.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\sintaxe-opcional-foreach\obj\Debug\net6.0\sintaxe-opcional-foreach.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\sintaxe-opcional-foreach\obj\Debug\net6.0\sintaxe-opcional-foreach.genruntimeconfig.cache
