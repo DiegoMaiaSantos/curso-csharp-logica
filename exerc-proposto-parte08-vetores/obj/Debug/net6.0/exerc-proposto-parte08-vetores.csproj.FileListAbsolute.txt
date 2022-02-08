@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte08-vetores\bin\Debug\net6.0\exerc-proposto-parte08-vetores.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte08-vetores\bin\Debug\net6.0\exerc-proposto-parte08-vetores.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte08-vetores\bin\Debug\net6.0\exerc-proposto-parte08-vetores.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte08-vetores\bin\Debug\net6.0\exerc-proposto-parte08-vetores.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte08-vetores\bin\Debug\net6.0\ref\exerc-proposto-parte08-vetores.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte08-vetores\bin\Debug\net6.0\exerc-proposto-parte08-vetores.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte08-vetores\obj\Debug\net6.0\exerc-proposto-parte08-vetores.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte08-vetores\obj\Debug\net6.0\exerc-proposto-parte08-vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte08-vetores\obj\Debug\net6.0\exerc-proposto-parte08-vetores.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte08-vetores\obj\Debug\net6.0\exerc-proposto-parte08-vetores.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte08-vetores\obj\Debug\net6.0\exerc-proposto-parte08-vetores.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte08-vetores\obj\Debug\net6.0\exerc-proposto-parte08-vetores.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte08-vetores\obj\Debug\net6.0\ref\exerc-proposto-parte08-vetores.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte08-vetores\obj\Debug\net6.0\exerc-proposto-parte08-vetores.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-proposto-parte08-vetores\obj\Debug\net6.0\exerc-proposto-parte08-vetores.genruntimeconfig.cache
