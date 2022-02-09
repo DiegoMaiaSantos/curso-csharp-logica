@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\matrizes\bin\Debug\net6.0\matrizes.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\matrizes\bin\Debug\net6.0\matrizes.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\matrizes\bin\Debug\net6.0\matrizes.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\matrizes\bin\Debug\net6.0\matrizes.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\matrizes\bin\Debug\net6.0\ref\matrizes.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\matrizes\bin\Debug\net6.0\matrizes.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\matrizes\obj\Debug\net6.0\matrizes.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\matrizes\obj\Debug\net6.0\matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\matrizes\obj\Debug\net6.0\matrizes.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\matrizes\obj\Debug\net6.0\matrizes.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\matrizes\obj\Debug\net6.0\matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\matrizes\obj\Debug\net6.0\matrizes.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\matrizes\obj\Debug\net6.0\ref\matrizes.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\matrizes\obj\Debug\net6.0\matrizes.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\matrizes\obj\Debug\net6.0\matrizes.genruntimeconfig.cache
