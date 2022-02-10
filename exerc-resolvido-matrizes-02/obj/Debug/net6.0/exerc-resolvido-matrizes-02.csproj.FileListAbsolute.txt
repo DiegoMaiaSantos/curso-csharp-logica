@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-matrizes-02\bin\Debug\net6.0\exerc-resolvido-matrizes-02.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-matrizes-02\bin\Debug\net6.0\exerc-resolvido-matrizes-02.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-matrizes-02\bin\Debug\net6.0\exerc-resolvido-matrizes-02.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-matrizes-02\bin\Debug\net6.0\exerc-resolvido-matrizes-02.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-matrizes-02\bin\Debug\net6.0\ref\exerc-resolvido-matrizes-02.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-matrizes-02\bin\Debug\net6.0\exerc-resolvido-matrizes-02.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-matrizes-02\obj\Debug\net6.0\exerc-resolvido-matrizes-02.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-matrizes-02\obj\Debug\net6.0\exerc-resolvido-matrizes-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-matrizes-02\obj\Debug\net6.0\exerc-resolvido-matrizes-02.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-matrizes-02\obj\Debug\net6.0\exerc-resolvido-matrizes-02.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-matrizes-02\obj\Debug\net6.0\exerc-resolvido-matrizes-02.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-matrizes-02\obj\Debug\net6.0\exerc-resolvido-matrizes-02.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-matrizes-02\obj\Debug\net6.0\ref\exerc-resolvido-matrizes-02.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-matrizes-02\obj\Debug\net6.0\exerc-resolvido-matrizes-02.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\exerc-resolvido-matrizes-02\obj\Debug\net6.0\exerc-resolvido-matrizes-02.genruntimeconfig.cache

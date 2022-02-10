@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "exerc-resolvido-matrizes-02/1.0.0": {
+        "runtime": {
+          "exerc-resolvido-matrizes-02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exerc-resolvido-matrizes-02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
