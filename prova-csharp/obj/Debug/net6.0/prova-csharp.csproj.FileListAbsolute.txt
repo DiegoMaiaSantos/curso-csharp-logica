@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\prova-csharp\obj\Debug\net6.0\prova-csharp.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\prova-csharp\obj\Debug\net6.0\prova-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\prova-csharp\obj\Debug\net6.0\prova-csharp.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\prova-csharp\obj\Debug\net6.0\prova-csharp.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\prova-csharp\obj\Debug\net6.0\prova-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\prova-csharp\bin\Debug\net6.0\prova-csharp.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\prova-csharp\bin\Debug\net6.0\prova-csharp.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\prova-csharp\bin\Debug\net6.0\prova-csharp.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\prova-csharp\bin\Debug\net6.0\prova-csharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\prova-csharp\bin\Debug\net6.0\ref\prova-csharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\prova-csharp\bin\Debug\net6.0\prova-csharp.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\prova-csharp\obj\Debug\net6.0\prova-csharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\prova-csharp\obj\Debug\net6.0\ref\prova-csharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\prova-csharp\obj\Debug\net6.0\prova-csharp.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-logica\curso-csharp-logica\prova-csharp\obj\Debug\net6.0\prova-csharp.genruntimeconfig.cache
